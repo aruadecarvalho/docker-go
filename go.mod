@@ -1,3 +1,3 @@
-module github.com/aruadecarvalho/docker-go-desafio
+module github.com/aruadecarvalho/docker-go
 
 go 1.20
